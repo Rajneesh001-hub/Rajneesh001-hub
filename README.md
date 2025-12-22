@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajneesh</h1>
-<h3 align="center">🌱 Aspiring Software Engineer | Exploring the world of AI/ML 🤖 | Learning to build smart solutions one line of code at a time. Passionate about coding, data, and creating innovative projects. Excited to grow and collaborate! 🚀</h3>
+<h3 align="center">🌱 Aspiring Software Engineer | Exploring the world of AI & ML 🤖 | Learning to build smart solutions one line of code at a time. Passionate about coding, data, and creating innovative projects. Excited to grow and collaborate! 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
